@@ -1,5 +1,5 @@
 // ===== API BASE URL =====
-const API = 'http://localhost:8081/api';
+const API = 'https://bookmyshow-backend-couh.onrender.com/api';
 
 // ===== GENERIC FETCH HELPERS =====
 async function apiGet(endpoint) {
